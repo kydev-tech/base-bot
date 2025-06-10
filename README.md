@@ -54,12 +54,9 @@ whatsapp-bot/
 - `!daftar` - Daftar ke bot
 - `!profile` - Lihat profile
 
-### Menu Reseller
-- `!addsaldo <nomor> <jumlah>` - Tambah saldo user
-
 ### Menu Owner
 - `!setlevel <nomor> <level>` - Set level user (guest/reseller/owner)
-- `!setsaldo <nomor> <jumlah>` - Set saldo user
+- `!addsaldo <nomor> <jumlah>` - Tambah saldo user
 
 ## 🎖️ Level User
 
