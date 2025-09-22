@@ -159,4 +159,4 @@ MIT License - lihat file [LICENSE](LICENSE) untuk detail lengkap.
 
 ---
 
-**Made with ❤️ by [Evandra19](https://github.com/Evandra19)**
+**Made with ❤️ by [kydev-tech](https://github.com/kydev-tech)**
