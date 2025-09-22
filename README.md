@@ -23,7 +23,7 @@ Bot WhatsApp sederhana yang dibangun menggunakan Baileys dengan sistem pairing c
 1. Clone repository ini:
 ```bash
 git clone https://github.com/kydev-tech/base-bot.git
-cd whatsapp-bot-simple
+cd base-bot
 ```
 
 2. Install dependencies:
