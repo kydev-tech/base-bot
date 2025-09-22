@@ -1,0 +1,57 @@
+{
+  "owner": {
+    "cekid": {
+      "alias": ["checkid", "groupid", "getid"],
+      "description": "Mengambil ID grup dari link WhatsApp",
+      "usage": "cekid <link_grup>",
+      "category": "owner"
+    }
+  },
+  "admin": {
+    "cl": {
+      "alias": ["close", "closegrub", "tutup"],
+      "desc": "Menutup grup dan mengirim pengumuman"
+    },
+    "open": {
+      "alias": ["op", "opengrub", "buka"],
+      "desc": "Membuka grup dan mengirim pengumuman"
+    },
+    "hidetag": {
+      "alias": ["h"],
+      "description": "Mengirim pesan dengan hidetag semua member grup"
+    },
+    "addproduk": {
+      "alias": ["add", "addproduct", "tambahproduk"],
+      "desc": "Menambahkan produk baru ke database"
+    },
+    "editproduk": {
+      "alias": ["edit", "editproduct", "ubahproduk"],
+      "desc": "Mengedit produk yang sudah ada"
+    },
+    "delproduk": {
+      "alias": ["del", "delete", "hapusproduk", "deleteproduk"],
+      "desc": "Menghapus produk dari database"
+    },
+    "list": {
+      "alias": ["listproduk", "catalog", "katalog"],
+      "desc": "Menampilkan daftar produk premium"
+    },
+    "addpromo": {
+      "alias": ["add", "addpromo", "tambahpromo"],
+      "desc": "Menambahkan promo baru ke database"
+    },
+    "antilink": {
+      "alias": ["al", "antilnk"],
+      "desc": "Kelola sistem antilink grup",
+      "example": "antilink status"
+    },
+    "p": {
+      "description": "Set transaksi pending untuk member",
+      "alias": ["pending"]
+    }
+    },
+    "done": {
+      "description": "Set transaksi selesai untuk member",
+      "alias": ["done", "d"]
+    }
+}
